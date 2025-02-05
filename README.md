@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi there
 
+#### Programming Languages:
+- Python | advanced
+- Java | intermediate
+- C++ | intermediate
+- C# | basic
 <!--
 **JFung308/JFung308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
